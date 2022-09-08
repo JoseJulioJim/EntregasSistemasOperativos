@@ -13,18 +13,15 @@ El hardware en cambio, es todos los elementos tangibles de un equipo electrónic
 La red de Cómputo consta de la conexión de todos los sistemas que se encuentran dentro de esta para que se apoyen en lo que necesitan.
 
 ## ¿Qué es el modelo OSI?
-No sé. 
-
-![explota](https://i.imgur.com/FLUsaZW.gif)
+Este modelo fue creado con el fin de proponer una manera de ordenar cómo un sitio web puede ser creado con el fin de que la gente pudiera usarlo como referencia a la hora de hacer sus sitios.
 
 ## ¿Qué es la topología de red?
-No sé.
-
-![explota](https://i.imgur.com/FLUsaZW.gif)
+Es un mapa el cual va a ubicar cómo se van a ordenar lás paginas web o componentes, esto para tener un orden de navegación.
 
 ## Menciona 3 Características de la Web 1.0
 
 - Fue el primer sistema usado para la navegación publica por el internet.
+- Las páginas contenidas en ella se actualizaban muy poco o nunca.
 - Debido a la tecnología de ese entonces, los navegadores solo permitian la lectura de HTML y no actualizar la información desde fuera.
 
 ## Menciona 3 Características de la Web 2.0
@@ -66,8 +63,8 @@ Interactuar con los repositorios y archivos de un equipo, ya sea creando, copian
 
 ## ¿Qué es GitHub?
 
-Es un sitio y aplicación los cuales funcionan con el fin de que puedas subir proyectos a la nuve y otra gente o tú mismo lo puedan descargar de otro equipó para poder modificarlo
+Es un sitio y aplicación los cuales funcionan con el fin de que puedas subir proyectos a la nuve y otra gente o tú mismo lo puedan descargar de otro equipó para poder modificarlo.
 
 ## ¿Para qué sirve GitHub?
 
-PAra poder tener tus proyectos en línea y permitior que muchas personas en conjunto puedan trabajar en el mismo proyecto
+Para poder tener tus proyectos en línea y permitior que muchas personas en conjunto puedan trabajar en el mismo proyecto.
