@@ -7,6 +7,6 @@ este repositorio servira para  almacenar las prácticas y entregas de SO.
 - [Práctica-2](./Comandos%20Gitbash.md)
 - [Práctica-4](https://github.com/JoseJulioJim/Practica4)
 - [Práctica-8](/practica-8.md)
-- [Práctica-2-1](https://github.com/JoseJulioJim/PracticaBranches)
+- [Práctica-2-1](https://github.com/JoseJulioJim/PracticaBranches)g
 
 

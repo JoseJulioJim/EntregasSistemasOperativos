@@ -1,0 +1,84 @@
+commit 979c595d9c2cf900281f375a518a1f62dddfe9e1
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 15 10:44:12 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit 6114ce61ced94211f04a156520562099e67577b3
+Merge: 671b1ea 78a49e4
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 15 10:42:35 2022 -0500
+
+    Merge branch 'main' of https://github.com/JoseJulioJim/EntregasSistemasOperativos
+
+commit 671b1ea6247fac9cf911e3d39fae4d01bff5fb56
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 15 10:40:16 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit 78a49e40092251fe5d16aeed77844b67eff23849
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Tue Sep 13 10:45:28 2022 -0500
+
+    Index agregado
+
+commit ff5a511d2d8dfe531d0adeed803982cfcd863dfd
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Tue Sep 13 10:12:04 2022 -0500
+
+    Creando branch y agregando Hola Mundo
+
+commit 221e62f6cf00111f6c66d9b5563a7ded4c7415fe
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Tue Sep 13 09:33:46 2022 -0500
+
+    problema resuelto
+
+commit f0e254f0cab5986e9458631400988c46e911677f
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 8 09:23:26 2022 -0500
+
+    Agregando enlace y contenido de la práctica 8
+
+commit 38af415b4f3f4b129a2c8e760bd8f634ba561136
+Author: JoseJulioJim <cdmx2115@amerike.edu.mx>
+Date:   Tue Sep 6 21:26:42 2022 -0500
+
+    gregando enlace y contenido de la Práctica 8
+
+commit f35b8ef3d01e5ac894ac7d52f61849f8d7de5d90
+Author: JoseJulioJim <100314968+JoseJulioJim@users.noreply.github.com>
+Date:   Tue Sep 6 10:55:41 2022 -0500
+
+    "Agregando una nueva licencia"
+
+commit bf80c3d69b1bbdd0e24e77cdcc35be6f865bf683
+Author: José Julio Jiménez <cdmx2115@amerike.edu.mx>
+Date:   Tue Sep 6 10:50:20 2022 -0500
+
+    Agregando git ignore
+
+commit ddd637af931b4a3346094c1da7d2eabc936c71f8
+Author: Tobias Gutierrez <perepump@gmail.com>
+Date:   Tue Sep 6 10:35:34 2022 -0500
+
+    Agregando archivo .gitignore
+
+commit 08005fc83149af2330cb54dcbf62d23253e8c441
+Author: Tobias Gutierrez <perepump@gmail.com>
+Date:   Tue Sep 6 09:42:28 2022 -0500
+
+    agregando practica 4
+
+commit b4459be1b2e873b928e929902217e26a22244959
+Author: josejulio <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 1 11:05:24 2022 -0500
+
+    Funciona por favor
+
+commit a67d2e34bb4ab0b2cdb73f02b379d7f5c2237802
+Author: josejulio <cdmx2115@amerike.edu.mx>
+Date:   Thu Sep 1 10:44:40 2022 -0500
+
+    Primer commit, creando mi primer repositorio
